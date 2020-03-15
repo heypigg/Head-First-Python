@@ -4,3 +4,4 @@ def search4vowels(word):
     found = vowels.intersection(set(word))
     for vowel in found:
         print(vowel)
+ 
